@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    int a,b;
+    a = 56,b = 34;
+    printf("Value of a is %d \n",a);
+    printf("Value of a & b is %d %d",a,b);
+}
