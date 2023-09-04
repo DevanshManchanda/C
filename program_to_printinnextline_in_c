@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Devansh Manchanda\n");
+    printf("North\nCap\nUniversity");
+
+    return 0;
+}
